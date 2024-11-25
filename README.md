@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitjaiswal12&show_icons=true&theme=dark&locale=en&layout=compact" alt="arpitjaiswal12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitjaiswal12&theme=dark" alt="arpitjaiswal12" /></p>
-
-[![Arpit github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arpitjaiswal12&bg_color=170c12&color=e6d733&line=0b991b&point=bdd21e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
