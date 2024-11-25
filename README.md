@@ -2,6 +2,10 @@
 <h3 align="center">Aspiring to be a full-stack developer passionate about crafting back-end solutions.</h3>
 <img src="https://github.com/user-attachments/assets/9d3fead9-3dbe-49e8-a923-1e5a26b00344" alt="Your Portrait" style="border-radius:50%;"/>
 <!-- ![dev-2](https://github.com/user-attachments/assets/9d3fead9-3dbe-49e8-a923-1e5a26b00344) -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d3fead9-3dbe-49e8-a923-1e5a26b00344" alt="Your Portrait" width="200"/>
+</p>
+
 
 
 - 🔭 I’m currently working on [Early-Leave Management System](https://early-leave-automation-cse.vercel.app/)
