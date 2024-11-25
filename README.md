@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arpit Jaiswal</h1>
 <h3 align="center">Aspiring to be a full-stack developer passionate about crafting back-end solutions.</h3>
-<img src="https://your-image-link.com" alt="Your Portrait" width="200" height="200" style="border-radius:50%;"/>
+<img src="https://github.com/user-attachments/assets/9d3fead9-3dbe-49e8-a923-1e5a26b00344" alt="Your Portrait" width="200" height="200" style="border-radius:50%;"/>
+<!-- ![dev-2](https://github.com/user-attachments/assets/9d3fead9-3dbe-49e8-a923-1e5a26b00344) -->
+
 
 - 🔭 I’m currently working on [Early-Leave Management System](https://early-leave-automation-cse.vercel.app/)
 
