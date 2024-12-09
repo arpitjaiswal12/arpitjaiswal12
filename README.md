@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://twitter.com/arpit___jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpit___jaiswal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arpit-jaiswal-5bb84b247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-jaiswal-5bb84b247" height="30" width="40" /></a>
-</p>
 <a href="https://instagram.com/jaiswal__arpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaiswal__arpit" height="30" width="40" /></a>
 </p>
 
