@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitjaiswal12&show_icons=true&theme=dark&locale=en&layout=compact" alt="arpitjaiswal12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitjaiswal12&theme=dark" alt="arpitjaiswal12" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitjaiswal12&theme=dark&hide_border=false" alt="arpitjaiswal12" /></p>
