@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Early-Leave Management System](https://early-leave-automation-cse.vercel.app/)
 -->
 
-- 🌱 I’m currently learning **Swift and SwiftUi framework**
+- 🌱 I’m currently learning **Swift and SwiftUi framework.**
 
 - 👨‍💻 All of my projects are available at [https://arpit-jaiswal-portfolio-rose.vercel.app/](https://arpit-jaiswal-portfolio-rose.vercel.app/)
 
